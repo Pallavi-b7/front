@@ -1,0 +1,16 @@
+/* Task 4: Todo Application (CSS) */
+.todo-container {
+    width: 300px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+input, button {
+    margin: 5px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
